@@ -44,13 +44,7 @@ pip install pycryptodome requests beautifulsoup4 lxml matplotlib jsbeautifier
 
 ### 方式一：双击启动（推荐）
 
-双击项目目录中的 `启动.bat` 文件。
-
-启动脚本会自动：
-
-- 搜索系统中带 tkinter 的 Python 解释器（Python 3.9 ~ 3.13、miniconda3、anaconda3）
-- 找到后自动启动程序
-- 若未找到，回退到系统默认 `python` 命令
+双击项目目录中的 `wxapp_decompiler.py` 文件。
 
 ### 方式二：命令行启动
 
